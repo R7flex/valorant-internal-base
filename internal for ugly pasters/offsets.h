@@ -2,9 +2,9 @@
 namespace Offsets
 {
 	constexpr auto
-		Key = 0x9282978,
-		State = 0x9282940,
-		ProcessEvent = 0x3520430,
-		StaticFindObject = 0x35610e0,
-		TriggerVEH = 0x1D9DC50;
+		Key = 0x8FB8078,
+		State = 0x8FB8040,
+		ProcessEvent = 0x32F68B0,
+		StaticFindObject = 0x3337740,
+		TriggerVEH = 0x1B68B20;
 }
